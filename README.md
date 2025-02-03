@@ -1,4 +1,4 @@
-# CS:APP Data Lab
+# Data Lab
 Course project for Computer System Fundamentals based on Computer Systems: A Programmer's Perspective (CS:APP).
 
 ## Overview
